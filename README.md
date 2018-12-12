@@ -1,7 +1,8 @@
 # MTProto-Ubuntu
 Make Easy And Fast Run MTProto on Ubuntu
 ==============================================================================================================================
-RUN THIS COMMAND IN TERMINAL YOUR UBUNTU==================================================
+
+<b>RUN THIS COMMAND IN TERMINAL YOUR UBUNTU:</b>
 
 apt-get install -y curl && curl -O https://github.com/arashkian/MTProto-Ubuntu/blob/master/MTP-Ubuntu.sh  && bash MTP-Ubuntu.sh
 
