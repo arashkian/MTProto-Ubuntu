@@ -1,4 +1,4 @@
-# MTProto-Ubuntu
+# MTProto Privet And Sponser Channel
 Make Easy And Fast Run MTProto on Ubuntu
 
 ======================================================================================
