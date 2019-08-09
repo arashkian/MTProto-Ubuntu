@@ -1,6 +1,6 @@
-##################################################
-# Anything wrong? Find me via telegram:@Filepick #
-##################################################
+####################################################
+# Anything wrong? Find me via telegram:@iarashkian #
+####################################################
 
 #!/usr/bin/env bash
 PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin
@@ -37,8 +37,6 @@ clear
 echo "----------------------------------------------------"
 echo "  Install MTProto For Telegram with Promoted Channel"
 echo "  Author: Arash Kian"
-echo "  URL: https://FilePick.ir/"
-echo "  Telegram: https://t.me/FilePick"
 echo "----------------------------------------------------"
 echo ""
 
